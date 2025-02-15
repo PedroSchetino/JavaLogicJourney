@@ -1,4 +1,4 @@
-package src;
+package src.logica;
 
 import java.util.Random;
 import java.util.Scanner;
